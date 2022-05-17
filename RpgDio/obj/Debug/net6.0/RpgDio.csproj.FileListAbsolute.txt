@@ -1,0 +1,15 @@
+C:\Users\giova\OneDrive\Documentos\Programs\C#\RpgDio\RpgDio\bin\Debug\net6.0\RpgDio.exe
+C:\Users\giova\OneDrive\Documentos\Programs\C#\RpgDio\RpgDio\bin\Debug\net6.0\RpgDio.deps.json
+C:\Users\giova\OneDrive\Documentos\Programs\C#\RpgDio\RpgDio\bin\Debug\net6.0\RpgDio.runtimeconfig.json
+C:\Users\giova\OneDrive\Documentos\Programs\C#\RpgDio\RpgDio\bin\Debug\net6.0\RpgDio.dll
+C:\Users\giova\OneDrive\Documentos\Programs\C#\RpgDio\RpgDio\bin\Debug\net6.0\RpgDio.pdb
+C:\Users\giova\OneDrive\Documentos\Programs\C#\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Documentos\Programs\C#\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive\Documentos\Programs\C#\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive\Documentos\Programs\C#\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.AssemblyInfo.cs
+C:\Users\giova\OneDrive\Documentos\Programs\C#\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Documentos\Programs\C#\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.dll
+C:\Users\giova\OneDrive\Documentos\Programs\C#\RpgDio\RpgDio\obj\Debug\net6.0\refint\RpgDio.dll
+C:\Users\giova\OneDrive\Documentos\Programs\C#\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.pdb
+C:\Users\giova\OneDrive\Documentos\Programs\C#\RpgDio\RpgDio\obj\Debug\net6.0\RpgDio.genruntimeconfig.cache
+C:\Users\giova\OneDrive\Documentos\Programs\C#\RpgDio\RpgDio\obj\Debug\net6.0\ref\RpgDio.dll
